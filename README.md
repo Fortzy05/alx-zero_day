@@ -1,1 +1,1 @@
-My 0x03-git
+this project is a learning tool for git
